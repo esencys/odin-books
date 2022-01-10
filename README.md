@@ -13,3 +13,10 @@ Learnt:
 - Use inputs and events to alter state
 - See some similarities in functions and replace with a general function
 - Rerender table body (naive)
+
+Roadmap:
+
+[] Add input validation
+[] Add styling for page
+[] Add overlay for modal
+[] Find a better way to rerender on state change
